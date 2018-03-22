@@ -1,0 +1,7 @@
+---
+environment: production
+datacenter: fr
+stype: puppet
+role: master
+project: internal
+tier: prod
