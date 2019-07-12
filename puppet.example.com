@@ -1,5 +1,5 @@
 ---
-environment: production
+environment: build
 datacenter: fr
 stype: pxe
 role: master
